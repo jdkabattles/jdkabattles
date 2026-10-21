@@ -8,7 +8,7 @@ Evidence-citing systems. Auditable runs. Contracts that fail closed.
 
 [![X](https://img.shields.io/badge/X-@AITechInfluence-black?logo=x&logoColor=white)](https://x.com/AITechInfluence)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/Projects-MIT-green)](https://github.com/jdkabattles)
+[![Licenses](https://img.shields.io/badge/Licenses-MIT_and_Apache_2.0-green)](https://github.com/jdkabattles)
 
 </div>
 
@@ -27,9 +27,8 @@ Currently focused on **EvidenceForge** (framework for auditable agents) and **Ve
 | **[EvidenceForge](https://github.com/jdkabattles/EvidenceForge)** | Open-source framework for evidence-citing AI agents. Claims must reference a structured registry. Validator fails unsupported outputs. | The missing reliability layer between raw LLMs and agents that enterprises can actually ship. |
 | **[Verity](https://github.com/jdkabattles/verity)** | Append-only evidence ledger. Every goal, tool call, and observation is hashed into a chain. Claims are rejected unless cited evidence supports them. | Makes agent runs replayable and tamper-evident. `verity verify` fails if the chain is broken. |
 | **[harwatch](https://github.com/jdkabattles/harwatch)** | Freeze an API from a HAR file. Fail the build when a field disappears. | Contract testing from real traffic. Stops silent API breakage. |
-| **[mimicplus-oss](https://github.com/jdkabattles/mimicplus-oss)** | Open core: HAR → OpenAPI + Python client. | Turns recorded traffic into living contracts. |
 
-All Python. All MIT. All focused on the gap between agent demos and agent systems that survive contact with reality.
+All Python. Openly licensed — MIT and Apache 2.0; see each project's LICENSE. All focused on the gap between agent demos and agent systems that survive contact with reality.
 
 ## Currently
 
